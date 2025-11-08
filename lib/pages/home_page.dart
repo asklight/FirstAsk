@@ -16,7 +16,7 @@ class _HomePageState extends State<HomePage>{
           title: const Text('Drawer Demo'),
         ),
         body: const Center(
-            child: Text("主页")
+            child: Text("主页.")
         ),
         // ------------添加左侧边栏---------------
         drawer: const Drawer(
