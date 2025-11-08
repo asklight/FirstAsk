@@ -14,6 +14,7 @@ class _MessagePageState extends State<MessagePage>{
   @override
   Widget build(BuildContext context) {
     return Scaffold(
+      backgroundColor: Colors.grey[100],
       appBar: AppBar(
         title: const Text('消息'),
       ),

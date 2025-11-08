@@ -319,7 +319,7 @@ class _ProfilePageState extends State<ProfilePage> {
               );
             },
           ),
-          _buildDivider(),
+          //_buildDivider(),
           _buildMenuItem(
             icon: Icons.photo_camera_back,
             iconColor: Colors.green,
@@ -331,7 +331,7 @@ class _ProfilePageState extends State<ProfilePage> {
               );
             },
           ),
-          _buildDivider(),
+          //_buildDivider(),
           _buildMenuItem(
             icon: Icons.card_membership,
             iconColor: Colors.red,
@@ -343,7 +343,7 @@ class _ProfilePageState extends State<ProfilePage> {
               );
             },
           ),
-          _buildDivider(),
+          //_buildDivider(),
           _buildMenuItem(
             icon: Icons.emoji_emotions,
             iconColor: Colors.purple,
